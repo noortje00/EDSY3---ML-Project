@@ -1,5 +1,6 @@
 ############### Set up ###############
-
+import numpy as np
+import matplotlib.pyplot as plt
 
 ############### Bayes predictor and Bayes risk ###############
 ############### Question 1 ###############
